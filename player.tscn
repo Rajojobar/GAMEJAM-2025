@@ -23,6 +23,8 @@ animations = [ {
 [node name="Node2D" type="Node2D"]
 
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+position = Vector2( -1.90735e-06, 3.8147e-06 )
+scale = Vector2( 0.8, 0.8 )
 frames = SubResource( 1 )
 animation = "marche"
 playing = true
